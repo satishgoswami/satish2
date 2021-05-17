@@ -1,0 +1,18 @@
+
+May 01, 2021 07:44:01.34 NEW SESSION
+May 01, 2021 07:44:01.34 [3352:5524:0501/074401.338:ERROR:device_event_log_impl.cc(214)] [07:44:01.338] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 01, 2021 10:49:54.39 NEW SESSION
+May 01, 2021 10:49:54.39 [920:3848:0501/104954.394:ERROR:device_event_log_impl.cc(214)] [10:49:54.394] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 13, 2021 16:28:14.95 NEW SESSION
+May 13, 2021 16:28:14.95 [2504:1540:0513/162814.949:ERROR:device_event_log_impl.cc(214)] [16:28:14.949] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 14, 2021 15:44:05.79 NEW SESSION
+May 14, 2021 15:44:05.79 [3972:2552:0514/154405.789:ERROR:device_event_log_impl.cc(214)] [15:44:05.789] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 15, 2021 18:03:20.36 NEW SESSION
+May 15, 2021 18:03:20.36 [6008:3432:0515/180320.363:ERROR:device_event_log_impl.cc(214)] [18:03:20.363] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 16, 2021 18:12:48.29 NEW SESSION
+May 16, 2021 18:12:48.29 [4272:6768:0516/181248.293:ERROR:device_event_log_impl.cc(214)] [18:12:48.292] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
